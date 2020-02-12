@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defMargin">20dp</dimen>
+    <dimen name="defPadding">20dp</dimen>
+    <dimen name="portHeight">300dp</dimen>
+    <dimen name="landHeight">200dp</dimen>
+    <dimen name="landMargin">50dp</dimen>
+    <dimen name="marginTop"></dimen>
+</resources>

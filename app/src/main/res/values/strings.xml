@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Take Picture</string>
+
+    <string name="click">Click here</string>
+    <string name="about">Test Assignment</string>
+    <string name="authority">com.luckygr8.takepicture.fileprovider</string>
+</resources>
